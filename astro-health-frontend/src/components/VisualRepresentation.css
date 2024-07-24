@@ -1,0 +1,24 @@
+.visual-representation {
+    padding: 20px;
+    color: white;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Play', sans-serif;
+  }
+  
+  .summary-section {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: #274060;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }

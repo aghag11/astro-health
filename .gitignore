@@ -1,0 +1,7 @@
+node_modules/
+astro-health-backend/node_modules/
+astro-health-frontend/node_modules/
+.DS_Store
+.env
+.env
+.env

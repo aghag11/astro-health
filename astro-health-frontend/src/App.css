@@ -1,0 +1,59 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Cairo', sans-serif;
+  background-color: #0d2149; /* background colour */
+  color: #f9ebe0; /* text colour */
+ }
+ 
+ 
+ .App {
+  display: flex;
+  height: 100vh;
+ }
+ 
+ 
+ .sidebar {
+  width: 220px;
+  background-color: #183059; /* background colour */
+  color: #fff;
+  height: 100vh;
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  top: 0;
+ }
+ 
+ 
+ .sidebar h2 {
+  font-family: 'Play', sans-serif;
+  color: #fff;
+ }
+ 
+ 
+ .sidebar ul {
+  list-style-type: none;
+  padding: 0;
+ }
+ 
+ 
+ .sidebar ul li {
+  margin: 15px 0;
+ }
+ 
+ 
+ .sidebar ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Cairo', sans-serif;
+ }
+ 
+ 
+ .main-content {
+  margin-left: 220px;
+  padding: 20px;
+  width: 100%;
+  background-color: #0d2149; 
+  color: #f9ebe0; 
+  font-family: 'Pridi', serif;
+ }
